@@ -7,5 +7,5 @@ Well if you want to install Widows 10 on a laptop or another desktop you can pro
 ## **Is it Safe**
 If you don't trust me, look though the code yourself, its only two lines :/
 
-## **What does it look like**
+## **What does the key look like?**
 Well your code should look something like this **AAAAA-BBBBB-CCCCC-11111-22222**
