@@ -1,3 +1,6 @@
+## **What it is**
+It is a Batch program that fetches the product key you used to activate the instalation of Windows you are using.
+
 ## **How to Use**
 Download the [File](https://github.com/OlaYZen/Windows-Activation-Key-Grabber/releases/download/Windows/WindowsActivationKeysGrabber.bat) and run it with Administrator privileges, should only take about a secound or two before you get your Windows Activation Key
 
